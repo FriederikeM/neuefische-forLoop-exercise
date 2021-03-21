@@ -18,3 +18,7 @@ Output in console:
 Remember: Use everything the for loop is giving you ;-)
 
 */
+
+for (let i = 0; i <= 10; i++) {
+  console.log(i);
+}
